@@ -6,6 +6,18 @@
   In your repository settings: enable template repository, add your 1280×640 social image, auto delete head branches.
   Add your open source license, GitHub uses MIT license.
 -->
+# My Project
+
+Welcome to my project! Here's a section where we talk about _underscore_ and its usage.
+
+## Usage of _underscore_
+
+In this section, we will explain how to use _underscore_ in your project.
+
+...
+
+Feel free to place `_underscore_` wherever it fits best in your documentation.
+
 
 # Test with Actions
 
